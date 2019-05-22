@@ -43,6 +43,7 @@ RUN set -ex \
     build-essential \
     default-libmysqlclient-dev \
     apt-utils \
+    vim \
     curl \
     rsync \
     libpq5 \
